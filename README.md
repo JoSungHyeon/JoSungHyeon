@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=500&color=61DAFB&text=JoSungHyeon&fontColor=fff)
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=500&color=61DAFB&text=JoSungHyeon&fontColor=fff" />
 
 ### SUNGHYEON CODING 👋
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -8,6 +10,7 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&height=200&color=61DAFB)
+</div>
 
 
 
