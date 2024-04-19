@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=111&text=JoSungHyeon&fontColor=fff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=500&lineHeight=1&color=111&text=Hello%20👋-nl-SungHyeon-nl-Github&fontColor=fff" />
 
 ### SUNGHYEON CODING 👋
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
