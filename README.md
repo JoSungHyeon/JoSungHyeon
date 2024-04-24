@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=500&lineHeight=1&color=111&text=Hello%20👋-nl-SungHyeon-nl-Github&fontColor=fff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=500&lineHeight=1&color=000&text=Hello%20👋-nl-SungHyeon-nl-Github&fontColor=fff" />
 
 ### SUNGHYEON CODING 👀
 
@@ -20,7 +20,7 @@
 </div>
 
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&height=200&color=111)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&height=200&color=000)
 </div>
 
 
